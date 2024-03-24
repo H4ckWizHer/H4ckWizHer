@@ -9,9 +9,9 @@
 
 - 🎓 Sophomore At Air University Islamabad **Pursuing Bachelors in Cybersecurity**
 
-- 🤝 I’m looking for help in **navigating advanced cyber security subjects and remaining informed about the latest developments in the field.**
+- 🤝 I’m looking for help in **navigating advanced cyber security subjects and remaining informed about the latest developments in the field**
 
-- 🔭 I’m currently working on **Python And its Automation Capabilities And Forensics Angle in Cybersecurity**
+- 🔭 I’m currently working on **Python And its Automation Capabilities And Forensics**
 
 - 👯 I’m looking to collaborate on **Cloud Native Projects And Development**
 
@@ -19,9 +19,9 @@
 
 - 🌱 I’m currently learning **Kali Tools And Linux OS**
 
-- 💬 Ask me about **Best Security Practices**
+- 💬 Ask me about **Best Security Practices and Poetry**
 
-- ⚡ Fun fact **I Think i'll Survive,I always Do!**
+- ⚡ Fun fact **I Think i'll Survive,Somehow I always Do!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
