@@ -99,17 +99,17 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=h4ckwizher&theme=radical" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=h4ckwizher&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mehreen-khan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehreen-khan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mehreen-khan&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=mehreen-khan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 ---
 
 ## 📈 GitHub Contribution Graph
