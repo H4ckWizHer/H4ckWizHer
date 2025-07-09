@@ -52,23 +52,21 @@
 
 ---
 
-### 🧰 Toolkits & Frameworks
+### 🧰 Toolkits & Security Frameworks
 
 <p align="left">
-  <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" alt="Nmap" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/N/nessus-logo-B45AAB2521-seeklogo.com.png" alt="Nessus" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/374118/nmap.svg" alt="Nmap" width="40" height="40"/>
+  <img src="https://www.tenable.com/sites/drupal.dmz.tenablesecurity.com/files/images/essentials/nessus.png" alt="Nessus" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Johntheripper.png" alt="John the Ripper" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/TechXposer/metasploit-payload/main/logo/metasploit-logo.png" alt="Metasploit" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/13899512?s=280&v=4" alt="Burp Suite" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Metasploit_logo.png" alt="Metasploit" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burp Suite" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Autopsy_logo.png" alt="Autopsy" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/IDA_Pro_logo.svg/2048px-IDA_Pro_logo.svg.png" alt="IDA Pro" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/wazuh/wazuh/master/resources/wazuh-logo.png" alt="Wazuh" width="40" height="40"/>
+  <img src="https://wazuh.com/wp-content/uploads/2022/02/wazuh_logo_color.svg" alt="Wazuh" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PfSense_logo.svg/512px-PfSense_logo.svg.png" alt="pfSense" width="40" height="40"/>
   <img src="https://logowik.com/content/uploads/images/fortinet4079.jpg" alt="Fortinet" width="40" height="40"/>
 </p>
-
----
 
 ### 🧠 Platforms & IDEs
 
