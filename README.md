@@ -101,7 +101,6 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehreen-khan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehreen-khan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
@@ -110,6 +109,7 @@
     <img src="https://streak-stats.demolab.com?user=mehreen-khan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
+
 ---
 
 ## 📈 GitHub Contribution Graph
