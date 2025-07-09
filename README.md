@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehreen Khan aka H4ckWizHer</h1>
-<h3 align="center">🚀 A Passionate Cybersecurity Undergrad | SOC Analyst-in-Training | Researecher | Tehnical Writer | Tool Enthusiast from Pakistan</h3>
+<h3 align="center">A Passionate Cybersecurity Undergrad | SOC Analyst-in-Training | Researecher | Tehnical Writer | Tool Enthusiast from Pakistan</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=h4ckwizher&label=Profile%20views&color=0e75b6&style=flat" alt="h4ckwizher" />
@@ -33,7 +33,11 @@
   <a href="https://instagram.com/_mehreen.khan" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
+  <a href="mailto:mehreen.umer04@gmail.com" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="40" />
+  </a>
 </p>
+
 
 ---
 
